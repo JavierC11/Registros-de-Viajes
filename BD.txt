@@ -1,0 +1,113 @@
+
+Clave: 777
+
+Nombre: JaVIER cASTILLO
+Edad: 78
+Punto de Partida: Villa Canales
+Destino: Villa Nueva
+Forma de Pago: efec
+Tarifa Cobrada: Q. 75
+
+Clave: 888
+
+Nombre: SS DD
+Edad: 78
+Punto de Partida: Villa Nueva
+Destino: Villa Canales
+Forma de Pago: efec
+Tarifa Cobrada: Q. 75
+
+Clave:123
+
+Nombre: Jaiver CASTILLO
+Edad: 45
+Punto de Partida: Vill Canales
+Destino: Viall s
+Forma de Pago: ef
+Tarifa Cobrada: Q. 0
+
+Clave: 12345678
+
+Nombre: Javier Castillo
+Edad: 45
+Punto de Partida: Vic
+Destino: c
+Forma de Pago: 
+Tarifa Cobrada: Q. 0
+
+Clave: 12345678
+
+Nombre: Jaiver
+Edad: 78
+Punto de Partida: e
+Destino: e
+Forma de Pago: efec
+Tarifa Cobrada: Q. 0
+
+Clave: 87654321
+
+Nombre: AA
+Edad: 34
+Punto de Partida: VC
+Destino: VN
+Forma de Pago: A
+Tarifa Cobrada: Q. 0
+
+Clave: 1234
+
+Nombre: Javier Castillo
+Edad: 75
+Punto de Partida: Guatemala
+Destino: Villa Nueva
+Forma de Pago: efec
+Tarifa Cobrada: Q. 60
+
+Matricula: Mazda 3
+Modelo Vehiculo: 
+Clave: 404
+Nombre: Javier Castillo
+Edad: 48
+Punto de Partida: Villa Canales
+Destino: Villa Nueva
+Forma de Pago: Efec
+Tarifa Cobrada: Q. 75
+
+Matricula: Mazda 3
+Modelo Vehiculo: 
+Clave:707
+Nombre: Javier Castillo
+Edad: 78
+Punto de Partida: Villa Nueva
+Destino: Villa Canales
+Forma de Pago: credito
+Tarifa Cobrada: Q. 25
+
+Matricula: ad
+Modelo Vehiculo: 
+Clave:808
+Nombre: Javier Perez
+Edad: 20
+Punto de Partida: Villa Nueva
+Destino: Villa Canales
+Forma de Pago: efec
+Tarifa Cobrada: Q. 25
+
+Matricula: sdf
+Modelo Vehiculo: 
+Clave:567
+Nombre: jCSASF
+Edad: 65
+Punto de Partida: AS
+Destino: CD
+Forma de Pago: AS
+Tarifa Cobrada: Q. 0
+
+Matricula: sh
+Modelo Vehiculo: 
+Clave:1234
+Nombre: JAvier Castillo
+Edad: 45
+Punto de Partida: Villa Canales
+Destino: Villa Nueva
+Forma de Pago: efec
+Tarifa Cobrada: Q. 75

@@ -1,0 +1,7 @@
+
+Nombre: AA BB
+Edad: 78
+Punto de Partida: Villa Canales
+Destino: Villa Nueva
+Forma de Pago: efec
+Tarifa Cobrada: Q. 0
